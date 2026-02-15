@@ -35,7 +35,7 @@ function createWindow() {
     minHeight: 600,
     titleBarStyle: 'hiddenInset', // Mac style
     backgroundColor: '#18181b', // Match dark theme
-    icon: path.join(process.env.VITE_PUBLIC, 'electron-vite.svg'),
+    icon: path.join(process.env.VITE_PUBLIC, 'icon.svg'),
     webPreferences: {
       preload: path.join(__dirname, 'preload.mjs'),
       webSecurity: false // Allow loading local file:// thumbnails

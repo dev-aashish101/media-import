@@ -1,0 +1,22 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background gradient circle -->
+  <defs>
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#6366F1;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#8B5CF6;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Rounded square background -->
+  <rect width="512" height="512" rx="115" fill="url(#grad1)"/>
+  
+  <!-- Folder icon -->
+  <path d="M140 200C140 186.745 150.745 176 164 176H228L252 200H348C361.255 200 372 210.745 372 224V336C372 349.255 361.255 360 348 360H164C150.745 360 140 349.255 140 336V200Z" fill="white" fill-opacity="0.2"/>
+  <path d="M140 224C140 210.745 150.745 200 164 200H228L252 224H348C361.255 224 372 234.745 372 248V336C372 349.255 361.255 360 348 360H164C150.745 360 140 349.255 140 336V224Z" fill="white" fill-opacity="0.9"/>
+  
+  <!-- Upload arrow -->
+  <path d="M256 280V360M256 280L226 310M256 280L286 310" stroke="#6366F1" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="256" cy="200" r="28" fill="#6366F1"/>
+  <path d="M256 172V228" stroke="white" stroke-width="16" stroke-linecap="round"/>
+  <path d="M256 172L236 192M256 172L276 192" stroke="white" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
