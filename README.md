@@ -4,6 +4,8 @@
 
 **The blazing fast, no-nonsense media importer for professionals.**
 
+![App Screenshot](./public/screenshot.png)
+
 Media Import does one thing and does it perfectly: safely transfers your photos and videos from source to destination at the maximum speed your hardware allows. No databases, no proprietary libraries, just raw performance.
 
 ## 🛑 The Problem
