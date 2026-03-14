@@ -2,7 +2,7 @@
 
 ![Media Import Banner](https://img.shields.io/badge/Media%20Import-v1.0.0-blue?style=for-the-badge) ![Platform](https://img.shields.io/badge/Platform-macOS%20(Apple%20Silicon)-lightgrey?style=for-the-badge) ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
-**The blazing fast, no-nonsense media importer for professionals.**
+**The blazing fast, no-nonsense media importer for creative pros.**
 
 ![App Screenshot](./public/screenshot.png)
 
